@@ -19,6 +19,8 @@ nav{
 }
 .upper_navbar{
 	background-color: #112255; 
+	color: wheat;
+	font-family: 'Courier New', Courier, monospace;
 }
 .menu1{
 	width: 90%;
@@ -42,6 +44,8 @@ nav{
 }
 .menu1 ul li:hover{
 	background-color: #0a9cc9;
+	color: black;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	transition: 0.3s;
 }
 .menu-icon{
